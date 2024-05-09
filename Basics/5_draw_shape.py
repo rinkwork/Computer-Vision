@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('images/cat.jpg')
+img = cv2.imread('../images/cat.jpg')
 
 # for line
 cv2.line(img, (50, 50), (100, 105), (255, 0, 0), 3)

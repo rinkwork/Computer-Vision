@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('images/cat.jpg')
+img = cv2.imread('../images/cat.jpg')
 height, width, depth = np.shape(img)
 
 for i in range(0, width):

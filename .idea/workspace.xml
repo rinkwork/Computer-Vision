@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16bf273e-bde9-4b7e-bef5-ec62e4a3a508" name="Changes" comment="udemy course">
-      <change afterPath="$PROJECT_DIR$/3_pixel_access.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_change_pixel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_draw_shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_text_on_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/7_resize_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/8_cut_image.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_import_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/0_import_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_color_to_grayscale.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/1_color_to_grayscale.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_meta_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/2_meta_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_pixel_access.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/3_pixel_access.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_change_pixel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/4_change_pixel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_draw_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/5_draw_shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_text_on_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/6_text_on_image.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +65,8 @@
     "Python.4_change_pixel.executor": "Run",
     "Python.5_draw_shape.executor": "Run",
     "Python.6_text_on_image.executor": "Run",
+    "Python.7_resize_image.executor": "Run",
+    "Python.8_cut_image.executor": "Run",
     "Python.import_image.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,6 +78,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Basics" />
       <recent name="C:\HOME\Workspace\Python\pycharm\computer_vision\images" />
     </key>
   </component>
@@ -130,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715238383041</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="udemy course">
+      <option name="closed" value="true" />
+      <created>1715240873265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715240873265</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

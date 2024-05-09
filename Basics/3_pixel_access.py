@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('images/cat.jpg')
+img = cv2.imread('../images/cat.jpg')
 
 print(img[250][312])  # Output = [B G R] values of RGB
 
