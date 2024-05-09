@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16bf273e-bde9-4b7e-bef5-ec62e4a3a508" name="Changes" comment="udemy course" />
+    <list default="true" id="16bf273e-bde9-4b7e-bef5-ec62e4a3a508" name="Changes" comment="udemy course">
+      <change afterPath="$PROJECT_DIR$/3_pixel_access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_change_pixel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_draw_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_text_on_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +54,12 @@
   "keyToString": {
     "Python.0_import_image.executor": "Run",
     "Python.1_color_to_grayscale.executor": "Run",
+    "Python.2_meta_data.executor": "Run",
     "Python.3_meta_data.executor": "Run",
+    "Python.3_pixel_access.executor": "Run",
+    "Python.4_change_pixel.executor": "Run",
+    "Python.5_draw_shape.executor": "Run",
+    "Python.6_text_on_image.executor": "Run",
     "Python.import_image.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715238035689</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="udemy course">
+      <option name="closed" value="true" />
+      <created>1715238383041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715238383041</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
