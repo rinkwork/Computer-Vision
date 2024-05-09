@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16bf273e-bde9-4b7e-bef5-ec62e4a3a508" name="Changes" comment="udemy course">
-      <change afterPath="$PROJECT_DIR$/Basics/7_resize_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/8_cut_image.py" afterDir="false" />
+    <list default="true" id="16bf273e-bde9-4b7e-bef5-ec62e4a3a508" name="Changes" comment="basics of computer vision">
+      <change afterPath="$PROJECT_DIR$/Basics/10_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/11_color_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/9_color_feature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/car.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_import_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/0_import_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_color_to_grayscale.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/1_color_to_grayscale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_meta_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/2_meta_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_pixel_access.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/3_pixel_access.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_change_pixel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/4_change_pixel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_draw_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/5_draw_shape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_text_on_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/6_text_on_image.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +53,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.0_import_image.executor": "Run",
+    "Python.10_histogram.executor": "Run",
+    "Python.10_image_color_feature_vector.executor": "Run",
+    "Python.11_color_histogram.executor": "Run",
     "Python.1_color_to_grayscale.executor": "Run",
     "Python.2_meta_data.executor": "Run",
     "Python.3_meta_data.executor": "Run",
@@ -67,13 +65,14 @@
     "Python.6_text_on_image.executor": "Run",
     "Python.7_resize_image.executor": "Run",
     "Python.8_cut_image.executor": "Run",
+    "Python.9_color_feature.executor": "Run",
     "Python.import_image.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "/home/rinkesh-ra/workspace/python/pycharm/Computer-Vision",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -146,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715240873265</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="basics of computer vision">
+      <option name="closed" value="true" />
+      <created>1715243812258</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715243812258</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +182,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="udemy course" />
-    <option name="LAST_COMMIT_MESSAGE" value="udemy course" />
+    <MESSAGE value="basics of computer vision" />
+    <option name="LAST_COMMIT_MESSAGE" value="basics of computer vision" />
   </component>
 </project>
